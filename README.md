@@ -1,8 +1,11 @@
 ## About Me 👩‍💼
 
-- 🔭 I’m currently working on building credible design projects for clients based on their requirements and managing end to end project management 
-- 🌱 I’m currently upskilling my profile and building tacit knowledge on SQL, Power BI and Python-based analytics projects to gain viewpoint on optimizing real world problems
-- 👯 I’m looking to collaborate with organizations to transition into BA roles and help clients achieve their strategic goals by analyzing data and helping them itdentify potential improvement opportunities
-- 💬 Ask me about Power BI, SQL queries, data cleaning, visualization best practices and storytelling with data
-- 📫 Reach me on https://www.linkedin.com/in/jhansi-vandana/
-- ⚡ Fun fact: Interior design made me detail-obsessed and data analytics made that obsession useful 😁
+I am Jhansi Vandana, a certified Data Analyst transitioning from 5+ years in interior design, client operations and project leadership into the world of analytics and BI. My experience working across mutliple firms has strengthened my ability to understand business needs, analyze constraints, manage stakeholders and translate complex information into clear actionable outcomes.
+
+I specialize in exploratory data analysis, dashboard development and business reporting using Power BI, SQL, Excel, and Python where i can  leverage from my past experience of tracking project performance, optimizing workflows and improving client satisfaction. I’ve consistently leveraged data-backed insights to support decision-making and operational efficiency. 
+
+With a strong foundation in problem-solving, user-centric thinking and structured execution,I’m looking to collaborate with organizations to transition into BA roles and help clients achieve their strategic goals by analyzing data and helping them itdentify potential improvement opportunities.
+
+## Let us connect
+If you're looking for a data-driven, detail-oriented professional who blends analytical skills with real-world business experience—I’d love to connect.
+
