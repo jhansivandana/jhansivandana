@@ -1,4 +1,4 @@
-## About Me 👩‍💼
+## 👩‍💼 About Me 
 
 I am Jhansi Vandana, a certified Data Analyst transitioning from 5+ years in interior design, client operations and project leadership into the world of analytics and BI. My experience working across mutliple firms has strengthened my ability to understand business needs, analyze constraints, manage stakeholders and translate complex information into clear actionable outcomes.
 
@@ -6,10 +6,10 @@ I specialize in exploratory data analysis, dashboard development and business re
 
 With a strong foundation in problem-solving, user-centric thinking and structured execution,I’m looking to collaborate with organizations to transition into BA roles and help clients achieve their strategic goals by analyzing data and helping them itdentify potential improvement opportunities.
 
-## Let us connect
+## 🤝 Let us connect
 If you're looking for a data-driven, detail-oriented professional who blends analytical skills with real-world business experience—I’d love to connect.
 
-## Core Skills
+## ⭐ Core Skills 
 - SQL
 - Excel (Advanced)
 - Tableau
