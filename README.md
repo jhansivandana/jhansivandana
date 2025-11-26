@@ -9,3 +9,13 @@ With a strong foundation in problem-solving, user-centric thinking and structure
 ## Let us connect
 If you're looking for a data-driven, detail-oriented professional who blends analytical skills with real-world business experience—I’d love to connect.
 
+## Core Skills
+- SQL
+- Excel (Advanced)
+- Tableau
+- Python (Pandas, Numpy)
+- Data Analysis
+- Problem Solving
+- Stakeholder Management
+- Project Management
+
