@@ -17,7 +17,7 @@ Working across multiple firms and client-facing roles strengthened my ability to
 
 Now, I channel these strengths into data-driven decision-making. I specialize in exploratory data analysis, dashboard building and business reporting using Power BI, SQL, Excel and Python.
 
-My past work involved tracking project performance, optimizing workflows, improving client experience and translating qualitative insights into actionable outcomes — a natural bridge to analytics. Today, I apply the same structured, impact-focused approach to interpret data and generate insights.
+My past work involved tracking project performance, optimizing workflows, improving client experience and translating qualitative insights into actionable outcomes which is a natural bridge to analytics. Today, I apply the same structured, impact-focused approach to interpret data and generate insights.
 
 I am passionate about turning raw data into meaningful stories that help businesses improve efficiency, identify opportunities and make informed decisions.
 
